@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 
 <div align="right">
-  <a href="https://app.daily.dev/byleomonteiro"><img src="https://api.daily.dev/devcards/fcd6015018b64c3d8042d899fa33a252.png?r=usi" width="200" alt="Leonardo Monteiro's Dev Card"/>
+  <a href="https://app.daily.dev/byleomonteiro"><img src="https://api.daily.dev/devcards/fcd6015018b64c3d8042d899fa33a252.png?r=qsi" width="200" alt="Leonardo Monteiro's Dev Card"/></a>
 </div>
 
