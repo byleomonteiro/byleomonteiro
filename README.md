@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 
 <div align="right">
-  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/byleomonteiro/byleomonteiro/blob/master/devcard.svg" width="200" alt="Leonardo Monteiro's Dev Card"/></a>
+  <a href="https://app.daily.dev/DailyDevTips">
+    <img src="https://github.com/byleomonteiro/byleomonteiro/blob/main/devcard.svg" width="200" alt="Leonardo Monteiro's Dev Card"/>
+  </a>
 </div>
 
