@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 <h3 align="center">Hi there! I'm Léo Monteiro! 〰️</></h3>
 
 - 🌟 More than **5 years** of experience in **software developing**.
-- 🔭 I’m currently working on [Semantix AI](https://semantix.ai) as **Software Engineer / Tech Lead**.
+- 🔭 I’m currently working as a free lancer as **Software Engineer / Tech Lead**.
 - 💻 Working currently developing **Node.js solutions**, building APIs and integrations.
 - 🎓 I also work as **Technical Leader**, helping developers in their careers.
 - 📍 Reach me on:
