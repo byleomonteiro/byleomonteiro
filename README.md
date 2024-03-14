@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💻 Working currently developing **Node.js solutions**, building APIs and integrations.
 - 🎓 I also work as **Technical Leader**, helping developers in their careers.
 - 📍 Reach me on:
-  - ✉️ **Email:** leonardomonteiro.sh@gmail.com
+  - ✉️ **Email:** byleomonteiro@outlook.com
   - 💼 **LinkedIn:** https://www.linkedin.com/in/byleomonteiro
 
 
