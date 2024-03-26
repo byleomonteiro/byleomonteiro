@@ -14,9 +14,7 @@ Here are some ideas to get you started:
   - 💼 **LinkedIn:** https://www.linkedin.com/in/byleomonteiro
 
 
-<div align="right">
-  <a href="https://app.daily.dev/DailyDevTips">
-    <img src="https://github.com/byleomonteiro/byleomonteiro/blob/main/devcard.svg" width="200" alt="Leonardo Monteiro's Dev Card"/>
-  </a>
+<div align="left">
+  <a href="https://app.daily.dev/byleomonteiro"><img src="https://api.daily.dev/devcards/v2/3iMa8zm00Ki1r8CpYhkJe.png?type=wide&r=arm" width="652" alt="Leonardo Monteiro's Dev Card"/></a>
 </div>
 
